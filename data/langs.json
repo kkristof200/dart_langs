@@ -1,0 +1,2104 @@
+{
+  "af": {
+    "name": "Afrikaans",
+    "name_local": "Afrikaans",
+    "iso_639_1": "af",
+    "iso_639_2": "afr",
+    "iso_639_3": "afr",
+    "locales": [
+      "af-NA",
+      "af-ZA"
+    ],
+    "tags": [
+      "afrikaans",
+      "afr",
+      "af"
+    ],
+    "main_country_code": "NA",
+    "main_locale": "af-NA"
+  },
+  "am": {
+    "name": "Amharic",
+    "name_local": "አማርኛ",
+    "iso_639_1": "am",
+    "iso_639_2": "amh",
+    "iso_639_3": "amh",
+    "locales": [
+      "am-ET"
+    ],
+    "tags": [
+      "amharic",
+      "አማርኛ",
+      "amh",
+      "am"
+    ],
+    "main_country_code": "ET",
+    "main_locale": "am-ET"
+  },
+  "ar": {
+    "name": "Arabic",
+    "name_local": "العربية",
+    "iso_639_1": "ar",
+    "iso_639_2": "ara",
+    "iso_639_3": "ara",
+    "locales": [
+      "ar-EG",
+      "ar-DZ",
+      "ar-BH",
+      "ar-DJ",
+      "ar-ER",
+      "ar-IQ",
+      "ar-IL",
+      "ar-YE",
+      "ar-JO",
+      "ar-QA",
+      "ar-KM",
+      "ar-KW",
+      "ar-LB",
+      "ar-LY",
+      "ar-MA",
+      "ar-MR",
+      "ar-OM",
+      "ar-PS",
+      "ar-SA",
+      "ar-SO",
+      "ar-SD",
+      "ar-SY",
+      "ar-TD",
+      "ar-TN",
+      "ar-AE"
+    ],
+    "tags": [
+      "العربية",
+      "arabic",
+      "ara",
+      "ar"
+    ],
+    "main_country_code": "AE",
+    "main_locale": "ar-AE"
+  },
+  "ay": {
+    "name": "Aymara",
+    "name_local": "Aymar aru",
+    "iso_639_1": "ay",
+    "iso_639_2": "aym",
+    "iso_639_3": "aym",
+    "locales": [
+      "ay-BO"
+    ],
+    "tags": [
+      "aymar aru",
+      "aymara",
+      "aym",
+      "ay"
+    ],
+    "main_country_code": "BO",
+    "main_locale": "ay-BO"
+  },
+  "az": {
+    "name": "Azerbaijani",
+    "name_local": "Azərbaycan dili",
+    "iso_639_1": "az",
+    "iso_639_2": "aze",
+    "iso_639_3": "aze",
+    "locales": [
+      "az-AZ"
+    ],
+    "tags": [
+      "azərbaycan dili",
+      "azerbaijani",
+      "aze",
+      "az"
+    ],
+    "main_country_code": "AZ",
+    "main_locale": "az-AZ"
+  },
+  "be": {
+    "name": "Belarusian",
+    "name_local": "Беларуская мова",
+    "iso_639_1": "be",
+    "iso_639_2": "bel",
+    "iso_639_3": "bel",
+    "locales": [
+      "be-BY"
+    ],
+    "tags": [
+      "беларуская мова",
+      "belarusian",
+      "bel",
+      "be"
+    ],
+    "main_country_code": "BY",
+    "main_locale": "be-BY"
+  },
+  "bn": {
+    "name": "Bengali",
+    "name_local": "বাংলা",
+    "iso_639_1": "bn",
+    "iso_639_2": "ben",
+    "iso_639_3": "ben",
+    "locales": [
+      "bn-BD"
+    ],
+    "tags": [
+      "bengali",
+      "বাংলা",
+      "ben",
+      "bn"
+    ],
+    "main_country_code": "BD",
+    "main_locale": "bn-BD"
+  },
+  "bi": {
+    "name": "Bislama",
+    "name_local": "Bislama",
+    "iso_639_1": "bi",
+    "iso_639_2": "bis",
+    "iso_639_3": "bis",
+    "locales": [
+      "bi-VU"
+    ],
+    "tags": [
+      "bislama",
+      "bis",
+      "bi"
+    ],
+    "main_country_code": "VU",
+    "main_locale": "bi-VU"
+  },
+  "bs": {
+    "name": "Bosnian",
+    "name_local": "Bosanski jezik",
+    "iso_639_1": "bs",
+    "iso_639_2": "bos",
+    "iso_639_3": "bos",
+    "locales": [
+      "bs-BA",
+      "bs-ME"
+    ],
+    "tags": [
+      "bosanski jezik",
+      "bosnian",
+      "bos",
+      "bs"
+    ],
+    "main_country_code": "BA",
+    "main_locale": "bs-BA"
+  },
+  "bg": {
+    "name": "Bulgarian",
+    "name_local": "Български език",
+    "iso_639_1": "bg",
+    "iso_639_2": "bul",
+    "iso_639_3": "bul",
+    "locales": [
+      "bg-BG"
+    ],
+    "tags": [
+      "български език",
+      "bulgarian",
+      "bul",
+      "bg"
+    ],
+    "main_country_code": "BG",
+    "main_locale": "bg-BG"
+  },
+  "cs": {
+    "name": "Czech",
+    "name_local": "Čeština",
+    "iso_639_1": "cs",
+    "iso_639_2": "ces",
+    "iso_639_3": "ces",
+    "locales": [
+      "cs-CZ"
+    ],
+    "tags": [
+      "čeština",
+      "czech",
+      "ces",
+      "cs"
+    ],
+    "main_country_code": "CZ",
+    "main_locale": "cs-CZ"
+  },
+  "ch": {
+    "name": "Chamorro",
+    "name_local": "Chamoru",
+    "iso_639_1": "ch",
+    "iso_639_2": "cha",
+    "iso_639_3": "cha",
+    "locales": [
+      "ch-GU",
+      "ch-MP"
+    ],
+    "tags": [
+      "chamorro",
+      "chamoru",
+      "cha",
+      "ch"
+    ],
+    "main_country_code": "GU",
+    "main_locale": "ch-GU"
+  },
+  "da": {
+    "name": "Danish",
+    "name_local": "Dansk",
+    "iso_639_1": "da",
+    "iso_639_2": "dan",
+    "iso_639_3": "dan",
+    "locales": [
+      "da-DK"
+    ],
+    "tags": [
+      "danish",
+      "dansk",
+      "dan",
+      "da"
+    ],
+    "main_country_code": "DK",
+    "main_locale": "da-DK"
+  },
+  "de": {
+    "name": "German",
+    "name_local": "Deutsch",
+    "iso_639_1": "de",
+    "iso_639_2": "deu",
+    "iso_639_3": "deu",
+    "locales": [
+      "de-BE",
+      "de-DE",
+      "de-LI",
+      "de-LU",
+      "de-AT",
+      "de-CH",
+      "de-VA"
+    ],
+    "tags": [
+      "deutsch",
+      "german",
+      "deu",
+      "de"
+    ],
+    "main_country_code": "DE",
+    "main_locale": "de-DE"
+  },
+  "dv": {
+    "name": "Divehi",
+    "name_local": "ދިވެހި",
+    "iso_639_1": "dv",
+    "iso_639_2": "div",
+    "iso_639_3": "div",
+    "locales": [
+      "dv-MV"
+    ],
+    "tags": [
+      "ދިވެހި",
+      "divehi",
+      "div",
+      "dv"
+    ],
+    "main_country_code": "MV",
+    "main_locale": "dv-MV"
+  },
+  "dz": {
+    "name": "Dzongkha",
+    "name_local": "རྫོང་ཁ",
+    "iso_639_1": "dz",
+    "iso_639_2": "dzo",
+    "iso_639_3": "dzo",
+    "locales": [
+      "dz-BT"
+    ],
+    "tags": [
+      "dzongkha",
+      "རྫོང་ཁ",
+      "dzo",
+      "dz"
+    ],
+    "main_country_code": "BT",
+    "main_locale": "dz-BT"
+  },
+  "el": {
+    "name": "Greek (modern)",
+    "name_local": "Ελληνικά",
+    "iso_639_1": "el",
+    "iso_639_2": "ell",
+    "iso_639_3": "ell",
+    "locales": [
+      "el-GR",
+      "el-CY"
+    ],
+    "tags": [
+      "greek (modern)",
+      "ελληνικά",
+      "ell",
+      "el"
+    ],
+    "main_country_code": "GR",
+    "main_locale": "el-GR"
+  },
+  "en": {
+    "name": "English",
+    "name_local": "English",
+    "iso_639_1": "en",
+    "iso_639_2": "eng",
+    "iso_639_3": "eng",
+    "locales": [
+      "en-AS",
+      "en-AI",
+      "en-AQ",
+      "en-AG",
+      "en-AU",
+      "en-BS",
+      "en-BB",
+      "en-BZ",
+      "en-BM",
+      "en-BW",
+      "en-IO",
+      "en-CK",
+      "en-CW",
+      "en-DM",
+      "en-ER",
+      "en-SZ",
+      "en-FK",
+      "en-FJ",
+      "en-FM",
+      "en-GM",
+      "en-GH",
+      "en-GI",
+      "en-GD",
+      "en-GU",
+      "en-GG",
+      "en-GY",
+      "en-HM",
+      "en-HK",
+      "en-IN",
+      "en-IM",
+      "en-IE",
+      "en-JM",
+      "en-JE",
+      "en-VG",
+      "en-VI",
+      "en-KY",
+      "en-CM",
+      "en-CA",
+      "en-KE",
+      "en-KI",
+      "en-UM",
+      "en-CC",
+      "en-LS",
+      "en-LR",
+      "en-MW",
+      "en-MT",
+      "en-MH",
+      "en-MU",
+      "en-MS",
+      "en-NA",
+      "en-NR",
+      "en-NZ",
+      "en-NG",
+      "en-NU",
+      "en-MP",
+      "en-NF",
+      "en-PK",
+      "en-PW",
+      "en-PG",
+      "en-PH",
+      "en-PN",
+      "en-PR",
+      "en-RW",
+      "en-MF",
+      "en-SB",
+      "en-ZM",
+      "en-WS",
+      "en-SC",
+      "en-SL",
+      "en-ZW",
+      "en-SG",
+      "en-SX",
+      "en-SH",
+      "en-KN",
+      "en-LC",
+      "en-VC",
+      "en-ZA",
+      "en-SD",
+      "en-GS",
+      "en-SS",
+      "en-TZ",
+      "en-TK",
+      "en-TO",
+      "en-TT",
+      "en-TC",
+      "en-TV",
+      "en-UG",
+      "en-VU",
+      "en-US",
+      "en-GB",
+      "en-CX"
+    ],
+    "tags": [
+      "english",
+      "eng",
+      "en"
+    ],
+    "main_country_code": "US",
+    "main_locale": "en-US"
+  },
+  "et": {
+    "name": "Estonian",
+    "name_local": "Eesti",
+    "iso_639_1": "et",
+    "iso_639_2": "est",
+    "iso_639_3": "est",
+    "locales": [
+      "et-EE"
+    ],
+    "tags": [
+      "estonian",
+      "eesti",
+      "est",
+      "et"
+    ],
+    "main_country_code": "EE",
+    "main_locale": "et-EE"
+  },
+  "fo": {
+    "name": "Faroese",
+    "name_local": "Føroyskt",
+    "iso_639_1": "fo",
+    "iso_639_2": "fao",
+    "iso_639_3": "fao",
+    "locales": [
+      "fo-FO"
+    ],
+    "tags": [
+      "føroyskt",
+      "faroese",
+      "fao",
+      "fo"
+    ],
+    "main_country_code": "FO",
+    "main_locale": "fo-FO"
+  },
+  "fa": {
+    "name": "Persian (farsi)",
+    "name_local": "فارسی",
+    "iso_639_1": "fa",
+    "iso_639_2": "fas",
+    "iso_639_3": "fas",
+    "locales": [
+      "fa-IR"
+    ],
+    "tags": [
+      "persian (farsi)",
+      "فارسی",
+      "fas",
+      "fa"
+    ],
+    "main_country_code": "IR",
+    "main_locale": "fa-IR"
+  },
+  "fj": {
+    "name": "Fijian",
+    "name_local": "Vosa vakaviti",
+    "iso_639_1": "fj",
+    "iso_639_2": "fij",
+    "iso_639_3": "fij",
+    "locales": [
+      "fj-FJ"
+    ],
+    "tags": [
+      "vosa vakaviti",
+      "fijian",
+      "fij",
+      "fj"
+    ],
+    "main_country_code": "FJ",
+    "main_locale": "fj-FJ"
+  },
+  "fi": {
+    "name": "Finnish",
+    "name_local": "Suomi",
+    "iso_639_1": "fi",
+    "iso_639_2": "fin",
+    "iso_639_3": "fin",
+    "locales": [
+      "fi-FI"
+    ],
+    "tags": [
+      "finnish",
+      "suomi",
+      "fin",
+      "fi"
+    ],
+    "main_country_code": "FI",
+    "main_locale": "fi-FI"
+  },
+  "fr": {
+    "name": "French",
+    "name_local": "Français",
+    "iso_639_1": "fr",
+    "iso_639_2": "fra",
+    "iso_639_3": "fra",
+    "locales": [
+      "fr-GQ",
+      "fr-BE",
+      "fr-BJ",
+      "fr-BF",
+      "fr-BI",
+      "fr-CD",
+      "fr-DJ",
+      "fr-CI",
+      "fr-FR",
+      "fr-GF",
+      "fr-PF",
+      "fr-TF",
+      "fr-MC",
+      "fr-GA",
+      "fr-GP",
+      "fr-GG",
+      "fr-GN",
+      "fr-HT",
+      "fr-JE",
+      "fr-CM",
+      "fr-CA",
+      "fr-KM",
+      "fr-LB",
+      "fr-LU",
+      "fr-MG",
+      "fr-ML",
+      "fr-MQ",
+      "fr-YT",
+      "fr-NC",
+      "fr-NE",
+      "fr-CG",
+      "fr-RE",
+      "fr-RW",
+      "fr-MF",
+      "fr-BL",
+      "fr-CH",
+      "fr-SN",
+      "fr-SC",
+      "fr-PM",
+      "fr-TG",
+      "fr-TD",
+      "fr-VU",
+      "fr-VA",
+      "fr-WF",
+      "fr-CF"
+    ],
+    "tags": [
+      "français",
+      "french",
+      "fra",
+      "fr"
+    ],
+    "main_country_code": "FR",
+    "main_locale": "fr-FR"
+  },
+  "ga": {
+    "name": "Irish",
+    "name_local": "Gaeilge",
+    "iso_639_1": "ga",
+    "iso_639_2": "gle",
+    "iso_639_3": "gle",
+    "locales": [
+      "ga-IE"
+    ],
+    "tags": [
+      "gaeilge",
+      "irish",
+      "gle",
+      "ga"
+    ],
+    "main_country_code": "IE",
+    "main_locale": "ga-IE"
+  },
+  "gv": {
+    "name": "Manx",
+    "name_local": "Gaelg",
+    "iso_639_1": "gv",
+    "iso_639_2": "glv",
+    "iso_639_3": "glv",
+    "locales": [
+      "gv-IM"
+    ],
+    "tags": [
+      "gaelg",
+      "manx",
+      "glv",
+      "gv"
+    ],
+    "main_country_code": "IM",
+    "main_locale": "gv-IM"
+  },
+  "gn": {
+    "name": "Guaraní",
+    "name_local": "Avañe'ẽ",
+    "iso_639_1": "gn",
+    "iso_639_2": "grn",
+    "iso_639_3": "grn",
+    "locales": [
+      "gn-AR",
+      "gn-PY"
+    ],
+    "tags": [
+      "guaraní",
+      "avañe'ẽ",
+      "grn",
+      "gn"
+    ],
+    "main_country_code": "PY",
+    "main_locale": "gn-PY"
+  },
+  "ht": {
+    "name": "Haitian",
+    "name_local": "Kreyòl ayisyen",
+    "iso_639_1": "ht",
+    "iso_639_2": "hat",
+    "iso_639_3": "hat",
+    "locales": [
+      "ht-HT"
+    ],
+    "tags": [
+      "kreyòl ayisyen",
+      "haitian",
+      "hat",
+      "ht"
+    ],
+    "main_country_code": "HT",
+    "main_locale": "ht-HT"
+  },
+  "he": {
+    "name": "Hebrew (modern)",
+    "name_local": "עברית",
+    "iso_639_1": "he",
+    "iso_639_2": "heb",
+    "iso_639_3": "heb",
+    "locales": [
+      "he-IL"
+    ],
+    "tags": [
+      "hebrew (modern)",
+      "עברית",
+      "heb",
+      "he"
+    ],
+    "main_country_code": "IL",
+    "main_locale": "he-IL"
+  },
+  "hi": {
+    "name": "Hindi",
+    "name_local": "हिन्दी",
+    "iso_639_1": "hi",
+    "iso_639_2": "hin",
+    "iso_639_3": "hin",
+    "locales": [
+      "hi-IN"
+    ],
+    "tags": [
+      "हिन्दी",
+      "hindi",
+      "hin",
+      "hi"
+    ],
+    "main_country_code": "IN",
+    "main_locale": "hi-IN"
+  },
+  "hr": {
+    "name": "Croatian",
+    "name_local": "Hrvatski jezik",
+    "iso_639_1": "hr",
+    "iso_639_2": "hrv",
+    "iso_639_3": "hrv",
+    "locales": [
+      "hr-BA",
+      "hr-HR",
+      "hr-ME"
+    ],
+    "tags": [
+      "hrvatski jezik",
+      "croatian",
+      "hrv",
+      "hr"
+    ],
+    "main_country_code": "HR",
+    "main_locale": "hr-HR"
+  },
+  "hu": {
+    "name": "Hungarian",
+    "name_local": "Magyar",
+    "iso_639_1": "hu",
+    "iso_639_2": "hun",
+    "iso_639_3": "hun",
+    "locales": [
+      "hu-HU"
+    ],
+    "tags": [
+      "hungarian",
+      "magyar",
+      "hun",
+      "hu"
+    ],
+    "main_country_code": "HU",
+    "main_locale": "hu-HU"
+  },
+  "hy": {
+    "name": "Armenian",
+    "name_local": "Հայերեն",
+    "iso_639_1": "hy",
+    "iso_639_2": "hye",
+    "iso_639_3": "hye",
+    "locales": [
+      "hy-AM",
+      "hy-CY"
+    ],
+    "tags": [
+      "armenian",
+      "հայերեն",
+      "hye",
+      "hy"
+    ],
+    "main_country_code": "AM",
+    "main_locale": "hy-AM"
+  },
+  "id": {
+    "name": "Indonesian",
+    "name_local": "Bahasa indonesia",
+    "iso_639_1": "id",
+    "iso_639_2": "ind",
+    "iso_639_3": "ind",
+    "locales": [
+      "id-ID"
+    ],
+    "tags": [
+      "bahasa indonesia",
+      "indonesian",
+      "ind",
+      "id"
+    ],
+    "main_country_code": "ID",
+    "main_locale": "id-ID"
+  },
+  "is": {
+    "name": "Icelandic",
+    "name_local": "Íslenska",
+    "iso_639_1": "is",
+    "iso_639_2": "isl",
+    "iso_639_3": "isl",
+    "locales": [
+      "is-IS"
+    ],
+    "tags": [
+      "icelandic",
+      "íslenska",
+      "isl",
+      "is"
+    ],
+    "main_country_code": "IS",
+    "main_locale": "is-IS"
+  },
+  "it": {
+    "name": "Italian",
+    "name_local": "Italiano",
+    "iso_639_1": "it",
+    "iso_639_2": "ita",
+    "iso_639_3": "ita",
+    "locales": [
+      "it-IT",
+      "it-SM",
+      "it-CH",
+      "it-VA"
+    ],
+    "tags": [
+      "italiano",
+      "italian",
+      "ita",
+      "it"
+    ],
+    "main_country_code": "IT",
+    "main_locale": "it-IT"
+  },
+  "ja": {
+    "name": "Japanese",
+    "name_local": "日本語 (にほんご)",
+    "iso_639_1": "ja",
+    "iso_639_2": "jpn",
+    "iso_639_3": "jpn",
+    "locales": [
+      "ja-JP"
+    ],
+    "tags": [
+      "日本語 (にほんご)",
+      "japanese",
+      "jpn",
+      "ja"
+    ],
+    "main_country_code": "JP",
+    "main_locale": "ja-JP"
+  },
+  "kl": {
+    "name": "Greenlandic",
+    "name_local": "Kalaallisut",
+    "iso_639_1": "kl",
+    "iso_639_2": "kal",
+    "iso_639_3": "kal",
+    "locales": [
+      "kl-GL"
+    ],
+    "tags": [
+      "kalaallisut",
+      "greenlandic",
+      "kal",
+      "kl"
+    ],
+    "main_country_code": "GL",
+    "main_locale": "kl-GL"
+  },
+  "ka": {
+    "name": "Georgian",
+    "name_local": "ქართული",
+    "iso_639_1": "ka",
+    "iso_639_2": "kat",
+    "iso_639_3": "kat",
+    "locales": [
+      "ka-GE"
+    ],
+    "tags": [
+      "georgian",
+      "ქართული",
+      "kat",
+      "ka"
+    ],
+    "main_country_code": "GE",
+    "main_locale": "ka-GE"
+  },
+  "kk": {
+    "name": "Kazakh",
+    "name_local": "Қазақ тілі",
+    "iso_639_1": "kk",
+    "iso_639_2": "kaz",
+    "iso_639_3": "kaz",
+    "locales": [
+      "kk-KZ"
+    ],
+    "tags": [
+      "қазақ тілі",
+      "kazakh",
+      "kaz",
+      "kk"
+    ],
+    "main_country_code": "KZ",
+    "main_locale": "kk-KZ"
+  },
+  "km": {
+    "name": "Khmer",
+    "name_local": "ខ្មែរ",
+    "iso_639_1": "km",
+    "iso_639_2": "khm",
+    "iso_639_3": "khm",
+    "locales": [
+      "km-KH"
+    ],
+    "tags": [
+      "khmer",
+      "ខ្មែរ",
+      "khm",
+      "km"
+    ],
+    "main_country_code": "KH",
+    "main_locale": "km-KH"
+  },
+  "rw": {
+    "name": "Kinyarwanda",
+    "name_local": "Ikinyarwanda",
+    "iso_639_1": "rw",
+    "iso_639_2": "kin",
+    "iso_639_3": "kin",
+    "locales": [
+      "rw-RW"
+    ],
+    "tags": [
+      "ikinyarwanda",
+      "kinyarwanda",
+      "kin",
+      "rw"
+    ],
+    "main_country_code": "RW",
+    "main_locale": "rw-RW"
+  },
+  "ky": {
+    "name": "Kyrgyz",
+    "name_local": "Кыргызча",
+    "iso_639_1": "ky",
+    "iso_639_2": "kir",
+    "iso_639_3": "kir",
+    "locales": [
+      "ky-KG"
+    ],
+    "tags": [
+      "кыргызча",
+      "kyrgyz",
+      "kir",
+      "ky"
+    ],
+    "main_country_code": "KG",
+    "main_locale": "ky-KG"
+  },
+  "ko": {
+    "name": "Korean",
+    "name_local": "한국어",
+    "iso_639_1": "ko",
+    "iso_639_2": "kor",
+    "iso_639_3": "kor",
+    "locales": [
+      "ko-KP",
+      "ko-KR"
+    ],
+    "tags": [
+      "korean",
+      "한국어",
+      "kor",
+      "ko"
+    ],
+    "main_country_code": "KR",
+    "main_locale": "ko-KR"
+  },
+  "ku": {
+    "name": "Kurdish",
+    "name_local": "Kurdî",
+    "iso_639_1": "ku",
+    "iso_639_2": "kur",
+    "iso_639_3": "kur",
+    "locales": [
+      "ku-IQ"
+    ],
+    "tags": [
+      "kurdish",
+      "kurdî",
+      "kur",
+      "ku"
+    ],
+    "main_country_code": "IQ",
+    "main_locale": "ku-IQ"
+  },
+  "lo": {
+    "name": "Lao",
+    "name_local": "ພາສາລາວ",
+    "iso_639_1": "lo",
+    "iso_639_2": "lao",
+    "iso_639_3": "lao",
+    "locales": [
+      "lo-LA"
+    ],
+    "tags": [
+      "ພາສາລາວ",
+      "lao",
+      "lao",
+      "lo"
+    ],
+    "main_country_code": "LA",
+    "main_locale": "lo-LA"
+  },
+  "la": {
+    "name": "Latin",
+    "name_local": "Latine",
+    "iso_639_1": "la",
+    "iso_639_2": "lat",
+    "iso_639_3": "lat",
+    "locales": [
+      "la-VA"
+    ],
+    "tags": [
+      "latine",
+      "latin",
+      "lat",
+      "la"
+    ],
+    "main_country_code": "VA",
+    "main_locale": "la-VA"
+  },
+  "lv": {
+    "name": "Latvian",
+    "name_local": "Latviešu valoda",
+    "iso_639_1": "lv",
+    "iso_639_2": "lav",
+    "iso_639_3": "lav",
+    "locales": [
+      "lv-LV"
+    ],
+    "tags": [
+      "latviešu valoda",
+      "latvian",
+      "lav",
+      "lv"
+    ],
+    "main_country_code": "LV",
+    "main_locale": "lv-LV"
+  },
+  "ln": {
+    "name": "Lingala",
+    "name_local": "Lingála",
+    "iso_639_1": "ln",
+    "iso_639_2": "lin",
+    "iso_639_3": "lin",
+    "locales": [
+      "ln-CD",
+      "ln-CG"
+    ],
+    "tags": [
+      "lingala",
+      "lingála",
+      "lin",
+      "ln"
+    ],
+    "main_country_code": "CD",
+    "main_locale": "ln-CD"
+  },
+  "lt": {
+    "name": "Lithuanian",
+    "name_local": "Lietuvių kalba",
+    "iso_639_1": "lt",
+    "iso_639_2": "lit",
+    "iso_639_3": "lit",
+    "locales": [
+      "lt-LT"
+    ],
+    "tags": [
+      "lietuvių kalba",
+      "lithuanian",
+      "lit",
+      "lt"
+    ],
+    "main_country_code": "LT",
+    "main_locale": "lt-LT"
+  },
+  "lb": {
+    "name": "Luxembourgish",
+    "name_local": "Lëtzebuergesch",
+    "iso_639_1": "lb",
+    "iso_639_2": "ltz",
+    "iso_639_3": "ltz",
+    "locales": [
+      "lb-LU"
+    ],
+    "tags": [
+      "lëtzebuergesch",
+      "luxembourgish",
+      "ltz",
+      "lb"
+    ],
+    "main_country_code": "LU",
+    "main_locale": "lb-LU"
+  },
+  "lu": {
+    "name": "Luba-katanga",
+    "name_local": "Tshiluba",
+    "iso_639_1": "lu",
+    "iso_639_2": "lub",
+    "iso_639_3": "lub",
+    "locales": [
+      "lu-CD"
+    ],
+    "tags": [
+      "luba-katanga",
+      "tshiluba",
+      "lub",
+      "lu"
+    ],
+    "main_country_code": "CD",
+    "main_locale": "lu-CD"
+  },
+  "mh": {
+    "name": "Marshallese",
+    "name_local": "Kajin m̧ajeļ",
+    "iso_639_1": "mh",
+    "iso_639_2": "mah",
+    "iso_639_3": "mah",
+    "locales": [
+      "mh-MH"
+    ],
+    "tags": [
+      "kajin m̧ajeļ",
+      "marshallese",
+      "mah",
+      "mh"
+    ],
+    "main_country_code": "MH",
+    "main_locale": "mh-MH"
+  },
+  "mk": {
+    "name": "Macedonian",
+    "name_local": "Македонски јазик",
+    "iso_639_1": "mk",
+    "iso_639_2": "mkd",
+    "iso_639_3": "mkd",
+    "locales": [
+      "mk-MK"
+    ],
+    "tags": [
+      "македонски јазик",
+      "macedonian",
+      "mkd",
+      "mk"
+    ],
+    "main_country_code": "MK",
+    "main_locale": "mk-MK"
+  },
+  "mg": {
+    "name": "Malagasy",
+    "name_local": "Fiteny malagasy",
+    "iso_639_1": "mg",
+    "iso_639_2": "mlg",
+    "iso_639_3": "mlg",
+    "locales": [
+      "mg-MG"
+    ],
+    "tags": [
+      "fiteny malagasy",
+      "malagasy",
+      "mlg",
+      "mg"
+    ],
+    "main_country_code": "MG",
+    "main_locale": "mg-MG"
+  },
+  "mt": {
+    "name": "Maltese",
+    "name_local": "Malti",
+    "iso_639_1": "mt",
+    "iso_639_2": "mlt",
+    "iso_639_3": "mlt",
+    "locales": [
+      "mt-MT"
+    ],
+    "tags": [
+      "maltese",
+      "malti",
+      "mlt",
+      "mt"
+    ],
+    "main_country_code": "MT",
+    "main_locale": "mt-MT"
+  },
+  "mn": {
+    "name": "Mongolian",
+    "name_local": "Монгол хэл",
+    "iso_639_1": "mn",
+    "iso_639_2": "mon",
+    "iso_639_3": "mon",
+    "locales": [
+      "mn-MN"
+    ],
+    "tags": [
+      "монгол хэл",
+      "mongolian",
+      "mon",
+      "mn"
+    ],
+    "main_country_code": "MN",
+    "main_locale": "mn-MN"
+  },
+  "mi": {
+    "name": "Māori",
+    "name_local": "Te reo māori",
+    "iso_639_1": "mi",
+    "iso_639_2": "mri",
+    "iso_639_3": "mri",
+    "locales": [
+      "mi-NZ"
+    ],
+    "tags": [
+      "te reo māori",
+      "māori",
+      "mri",
+      "mi"
+    ],
+    "main_country_code": "NZ",
+    "main_locale": "mi-NZ"
+  },
+  "ms": {
+    "name": "Malay",
+    "name_local": "Bahasa melayu",
+    "iso_639_1": "ms",
+    "iso_639_2": "msa",
+    "iso_639_3": "msa",
+    "locales": [
+      "ms-BN",
+      "ms-SG",
+      "ms-MY"
+    ],
+    "tags": [
+      "bahasa melayu",
+      "malay",
+      "msa",
+      "ms"
+    ],
+    "main_country_code": "MY",
+    "main_locale": "ms-MY"
+  },
+  "my": {
+    "name": "Burmese",
+    "name_local": "ဗမာစာ",
+    "iso_639_1": "my",
+    "iso_639_2": "mya",
+    "iso_639_3": "mya",
+    "locales": [
+      "my-MM"
+    ],
+    "tags": [
+      "burmese",
+      "ဗမာစာ",
+      "mya",
+      "my"
+    ],
+    "main_country_code": "MM",
+    "main_locale": "my-MM"
+  },
+  "na": {
+    "name": "Nauruan",
+    "name_local": "Dorerin naoero",
+    "iso_639_1": "na",
+    "iso_639_2": "nau",
+    "iso_639_3": "nau",
+    "locales": [
+      "na-NR"
+    ],
+    "tags": [
+      "dorerin naoero",
+      "nauruan",
+      "nau",
+      "na"
+    ],
+    "main_country_code": "NR",
+    "main_locale": "na-NR"
+  },
+  "nr": {
+    "name": "Southern ndebele",
+    "name_local": "Isindebele",
+    "iso_639_1": "nr",
+    "iso_639_2": "nbl",
+    "iso_639_3": "nbl",
+    "locales": [
+      "nr-ZA"
+    ],
+    "tags": [
+      "southern ndebele",
+      "isindebele",
+      "nbl",
+      "nr"
+    ],
+    "main_country_code": "ZA",
+    "main_locale": "nr-ZA"
+  },
+  "ne": {
+    "name": "Nepali",
+    "name_local": "नेपाली",
+    "iso_639_1": "ne",
+    "iso_639_2": "nep",
+    "iso_639_3": "nep",
+    "locales": [
+      "ne-NP"
+    ],
+    "tags": [
+      "nepali",
+      "नेपाली",
+      "nep",
+      "ne"
+    ],
+    "main_country_code": "NP",
+    "main_locale": "ne-NP"
+  },
+  "nl": {
+    "name": "Dutch",
+    "name_local": "Nederlands",
+    "iso_639_1": "nl",
+    "iso_639_2": "nld",
+    "iso_639_3": "nld",
+    "locales": [
+      "nl-AW",
+      "nl-BE",
+      "nl-CW",
+      "nl-BQ",
+      "nl-NL",
+      "nl-MF",
+      "nl-SX",
+      "nl-SR"
+    ],
+    "tags": [
+      "nederlands",
+      "dutch",
+      "nld",
+      "nl"
+    ],
+    "main_country_code": "NL",
+    "main_locale": "nl-NL"
+  },
+  "nn": {
+    "name": "Norwegian nynorsk",
+    "name_local": "Norsk nynorsk",
+    "iso_639_1": "nn",
+    "iso_639_2": "nno",
+    "iso_639_3": "nno",
+    "locales": [
+      "nn-BV",
+      "nn-NO"
+    ],
+    "tags": [
+      "norwegian nynorsk",
+      "norsk nynorsk",
+      "nno",
+      "nn"
+    ],
+    "main_country_code": "BV",
+    "main_locale": "nn-BV"
+  },
+  "nb": {
+    "name": "Norwegian bokmål",
+    "name_local": "Norsk bokmål",
+    "iso_639_1": "nb",
+    "iso_639_2": "nob",
+    "iso_639_3": "nob",
+    "locales": [
+      "nb-BV",
+      "nb-NO"
+    ],
+    "tags": [
+      "norwegian bokmål",
+      "norsk bokmål",
+      "nob",
+      "nb"
+    ],
+    "main_country_code": "BV",
+    "main_locale": "nb-BV"
+  },
+  "no": {
+    "name": "Norwegian",
+    "name_local": "Norsk",
+    "iso_639_1": "no",
+    "iso_639_2": "nor",
+    "iso_639_3": "nor",
+    "locales": [
+      "no-BV",
+      "no-NO",
+      "no-SJ"
+    ],
+    "tags": [
+      "norwegian",
+      "norsk",
+      "nor",
+      "no"
+    ],
+    "main_country_code": "BV",
+    "main_locale": "no-BV"
+  },
+  "ny": {
+    "name": "Chichewa",
+    "name_local": "Chicheŵa",
+    "iso_639_1": "ny",
+    "iso_639_2": "nya",
+    "iso_639_3": "nya",
+    "locales": [
+      "ny-MW"
+    ],
+    "tags": [
+      "chicheŵa",
+      "chichewa",
+      "nya",
+      "ny"
+    ],
+    "main_country_code": "MW",
+    "main_locale": "ny-MW"
+  },
+  "pl": {
+    "name": "Polish",
+    "name_local": "Polski",
+    "iso_639_1": "pl",
+    "iso_639_2": "pol",
+    "iso_639_3": "pol",
+    "locales": [
+      "pl-PL"
+    ],
+    "tags": [
+      "polski",
+      "polish",
+      "pol",
+      "pl"
+    ],
+    "main_country_code": "PL",
+    "main_locale": "pl-PL"
+  },
+  "pt": {
+    "name": "Portuguese",
+    "name_local": "Português",
+    "iso_639_1": "pt",
+    "iso_639_2": "por",
+    "iso_639_3": "por",
+    "locales": [
+      "pt-AO",
+      "pt-GQ",
+      "pt-BR",
+      "pt-GW",
+      "pt-CV",
+      "pt-MO",
+      "pt-MZ",
+      "pt-TL",
+      "pt-PT",
+      "pt-ST"
+    ],
+    "tags": [
+      "portuguese",
+      "português",
+      "por",
+      "pt"
+    ],
+    "main_country_code": "PT",
+    "main_locale": "pt-PT"
+  },
+  "qu": {
+    "name": "Quechua",
+    "name_local": "Runa simi",
+    "iso_639_1": "qu",
+    "iso_639_2": "que",
+    "iso_639_3": "que",
+    "locales": [
+      "qu-BO"
+    ],
+    "tags": [
+      "runa simi",
+      "quechua",
+      "que",
+      "qu"
+    ],
+    "main_country_code": "BO",
+    "main_locale": "qu-BO"
+  },
+  "ro": {
+    "name": "Romanian",
+    "name_local": "Română",
+    "iso_639_1": "ro",
+    "iso_639_2": "ron",
+    "iso_639_3": "ron",
+    "locales": [
+      "ro-MD",
+      "ro-RO"
+    ],
+    "tags": [
+      "romanian",
+      "română",
+      "ron",
+      "ro"
+    ],
+    "main_country_code": "MD",
+    "main_locale": "ro-MD"
+  },
+  "rn": {
+    "name": "Kirundi",
+    "name_local": "Ikirundi",
+    "iso_639_1": "rn",
+    "iso_639_2": "run",
+    "iso_639_3": "run",
+    "locales": [
+      "rn-BI"
+    ],
+    "tags": [
+      "ikirundi",
+      "kirundi",
+      "run",
+      "rn"
+    ],
+    "main_country_code": "BI",
+    "main_locale": "rn-BI"
+  },
+  "ru": {
+    "name": "Russian",
+    "name_local": "Русский",
+    "iso_639_1": "ru",
+    "iso_639_2": "rus",
+    "iso_639_3": "rus",
+    "locales": [
+      "ru-AQ",
+      "ru-BY",
+      "ru-KZ",
+      "ru-KG",
+      "ru-RU",
+      "ru-TJ",
+      "ru-TM",
+      "ru-UZ"
+    ],
+    "tags": [
+      "russian",
+      "русский",
+      "rus",
+      "ru"
+    ],
+    "main_country_code": "RU",
+    "main_locale": "ru-RU"
+  },
+  "sg": {
+    "name": "Sango",
+    "name_local": "Yângâ tî sängö",
+    "iso_639_1": "sg",
+    "iso_639_2": "sag",
+    "iso_639_3": "sag",
+    "locales": [
+      "sg-CF"
+    ],
+    "tags": [
+      "yângâ tî sängö",
+      "sango",
+      "sag",
+      "sg"
+    ],
+    "main_country_code": "CF",
+    "main_locale": "sg-CF"
+  },
+  "si": {
+    "name": "Sinhalese",
+    "name_local": "සිංහල",
+    "iso_639_1": "si",
+    "iso_639_2": "sin",
+    "iso_639_3": "sin",
+    "locales": [
+      "si-LK"
+    ],
+    "tags": [
+      "sinhalese",
+      "සිංහල",
+      "sin",
+      "si"
+    ],
+    "main_country_code": "LK",
+    "main_locale": "si-LK"
+  },
+  "sk": {
+    "name": "Slovak",
+    "name_local": "Slovenčina",
+    "iso_639_1": "sk",
+    "iso_639_2": "slk",
+    "iso_639_3": "slk",
+    "locales": [
+      "sk-SK",
+      "sk-CZ"
+    ],
+    "tags": [
+      "slovenčina",
+      "slovak",
+      "slk",
+      "sk"
+    ],
+    "main_country_code": "SK",
+    "main_locale": "sk-SK"
+  },
+  "sl": {
+    "name": "Slovene",
+    "name_local": "Slovenski jezik",
+    "iso_639_1": "sl",
+    "iso_639_2": "slv",
+    "iso_639_3": "slv",
+    "locales": [
+      "sl-SI"
+    ],
+    "tags": [
+      "slovenski jezik",
+      "slovene",
+      "slv",
+      "sl"
+    ],
+    "main_country_code": "SI",
+    "main_locale": "sl-SI"
+  },
+  "sm": {
+    "name": "Samoan",
+    "name_local": "Gagana fa'a samoa",
+    "iso_639_1": "sm",
+    "iso_639_2": "smo",
+    "iso_639_3": "smo",
+    "locales": [
+      "sm-AS",
+      "sm-WS"
+    ],
+    "tags": [
+      "gagana fa'a samoa",
+      "samoan",
+      "smo",
+      "sm"
+    ],
+    "main_country_code": "WS",
+    "main_locale": "sm-WS"
+  },
+  "sn": {
+    "name": "Shona",
+    "name_local": "Chishona",
+    "iso_639_1": "sn",
+    "iso_639_2": "sna",
+    "iso_639_3": "sna",
+    "locales": [
+      "sn-ZW"
+    ],
+    "tags": [
+      "chishona",
+      "shona",
+      "sna",
+      "sn"
+    ],
+    "main_country_code": "ZW",
+    "main_locale": "sn-ZW"
+  },
+  "so": {
+    "name": "Somali",
+    "name_local": "Soomaaliga",
+    "iso_639_1": "so",
+    "iso_639_2": "som",
+    "iso_639_3": "som",
+    "locales": [
+      "so-SO"
+    ],
+    "tags": [
+      "soomaaliga",
+      "somali",
+      "som",
+      "so"
+    ],
+    "main_country_code": "SO",
+    "main_locale": "so-SO"
+  },
+  "st": {
+    "name": "Southern sotho",
+    "name_local": "Sesotho",
+    "iso_639_1": "st",
+    "iso_639_2": "sot",
+    "iso_639_3": "sot",
+    "locales": [
+      "st-LS",
+      "st-ZA"
+    ],
+    "tags": [
+      "southern sotho",
+      "sesotho",
+      "sot",
+      "st"
+    ],
+    "main_country_code": "LS",
+    "main_locale": "st-LS"
+  },
+  "es": {
+    "name": "Spanish",
+    "name_local": "Español",
+    "iso_639_1": "es",
+    "iso_639_2": "spa",
+    "iso_639_3": "spa",
+    "locales": [
+      "es-GQ",
+      "es-AR",
+      "es-BZ",
+      "es-BO",
+      "es-CL",
+      "es-CR",
+      "es-DO",
+      "es-EC",
+      "es-SV",
+      "es-GU",
+      "es-GT",
+      "es-HN",
+      "es-CO",
+      "es-CU",
+      "es-MX",
+      "es-NI",
+      "es-PA",
+      "es-PY",
+      "es-PE",
+      "es-PR",
+      "es-ES",
+      "es-UY",
+      "es-VE",
+      "es-EH"
+    ],
+    "tags": [
+      "español",
+      "spanish",
+      "spa",
+      "es"
+    ],
+    "main_country_code": "ES",
+    "main_locale": "es-ES"
+  },
+  "sq": {
+    "name": "Albanian",
+    "name_local": "Shqip",
+    "iso_639_1": "sq",
+    "iso_639_2": "sqi",
+    "iso_639_3": "sqi",
+    "locales": [
+      "sq-AL",
+      "sq-XK",
+      "sq-ME"
+    ],
+    "tags": [
+      "albanian",
+      "shqip",
+      "sqi",
+      "sq"
+    ],
+    "main_country_code": "AL",
+    "main_locale": "sq-AL"
+  },
+  "sr": {
+    "name": "Serbian",
+    "name_local": "Српски језик",
+    "iso_639_1": "sr",
+    "iso_639_2": "srp",
+    "iso_639_3": "srp",
+    "locales": [
+      "sr-BA",
+      "sr-XK",
+      "sr-ME",
+      "sr-RS"
+    ],
+    "tags": [
+      "српски језик",
+      "serbian",
+      "srp",
+      "sr"
+    ],
+    "main_country_code": "RS",
+    "main_locale": "sr-RS"
+  },
+  "ss": {
+    "name": "Swati",
+    "name_local": "Siswati",
+    "iso_639_1": "ss",
+    "iso_639_2": "ssw",
+    "iso_639_3": "ssw",
+    "locales": [
+      "ss-SZ",
+      "ss-ZA"
+    ],
+    "tags": [
+      "siswati",
+      "swati",
+      "ssw",
+      "ss"
+    ],
+    "main_country_code": "SZ",
+    "main_locale": "ss-SZ"
+  },
+  "sw": {
+    "name": "Swahili",
+    "name_local": "Kiswahili",
+    "iso_639_1": "sw",
+    "iso_639_2": "swa",
+    "iso_639_3": "swa",
+    "locales": [
+      "sw-CD",
+      "sw-KE",
+      "sw-TZ",
+      "sw-UG"
+    ],
+    "tags": [
+      "kiswahili",
+      "swahili",
+      "swa",
+      "sw"
+    ],
+    "main_country_code": "TZ",
+    "main_locale": "sw-TZ"
+  },
+  "sv": {
+    "name": "Swedish",
+    "name_local": "Svenska",
+    "iso_639_1": "sv",
+    "iso_639_2": "swe",
+    "iso_639_3": "swe",
+    "locales": [
+      "sv-AX",
+      "sv-FI",
+      "sv-SE"
+    ],
+    "tags": [
+      "swedish",
+      "svenska",
+      "swe",
+      "sv"
+    ],
+    "main_country_code": "SE",
+    "main_locale": "sv-SE"
+  },
+  "tg": {
+    "name": "Tajik",
+    "name_local": "Тоҷикӣ",
+    "iso_639_1": "tg",
+    "iso_639_2": "tgk",
+    "iso_639_3": "tgk",
+    "locales": [
+      "tg-TJ"
+    ],
+    "tags": [
+      "тоҷикӣ",
+      "tajik",
+      "tgk",
+      "tg"
+    ],
+    "main_country_code": "TJ",
+    "main_locale": "tg-TJ"
+  },
+  "th": {
+    "name": "Thai",
+    "name_local": "ไทย",
+    "iso_639_1": "th",
+    "iso_639_2": "tha",
+    "iso_639_3": "tha",
+    "locales": [
+      "th-TH"
+    ],
+    "tags": [
+      "thai",
+      "tha",
+      "ไทย",
+      "th"
+    ],
+    "main_country_code": "TH",
+    "main_locale": "th-TH"
+  },
+  "ti": {
+    "name": "Tigrinya",
+    "name_local": "ትግርኛ",
+    "iso_639_1": "ti",
+    "iso_639_2": "tir",
+    "iso_639_3": "tir",
+    "locales": [
+      "ti-ER"
+    ],
+    "tags": [
+      "tigrinya",
+      "ትግርኛ",
+      "tir",
+      "ti"
+    ],
+    "main_country_code": "ER",
+    "main_locale": "ti-ER"
+  },
+  "to": {
+    "name": "Tonga (tonga islands)",
+    "name_local": "Faka tonga",
+    "iso_639_1": "to",
+    "iso_639_2": "ton",
+    "iso_639_3": "ton",
+    "locales": [
+      "to-TO"
+    ],
+    "tags": [
+      "tonga (tonga islands)",
+      "faka tonga",
+      "ton",
+      "to"
+    ],
+    "main_country_code": "TO",
+    "main_locale": "to-TO"
+  },
+  "ts": {
+    "name": "Tsonga",
+    "name_local": "Xitsonga",
+    "iso_639_1": "ts",
+    "iso_639_2": "tso",
+    "iso_639_3": "tso",
+    "locales": [
+      "ts-ZA"
+    ],
+    "tags": [
+      "xitsonga",
+      "tsonga",
+      "tso",
+      "ts"
+    ],
+    "main_country_code": "ZA",
+    "main_locale": "ts-ZA"
+  },
+  "tk": {
+    "name": "Turkmen",
+    "name_local": "Türkmen",
+    "iso_639_1": "tk",
+    "iso_639_2": "tuk",
+    "iso_639_3": "tuk",
+    "locales": [
+      "tk-AF",
+      "tk-TM"
+    ],
+    "tags": [
+      "türkmen",
+      "turkmen",
+      "tuk",
+      "tk"
+    ],
+    "main_country_code": "TM",
+    "main_locale": "tk-TM"
+  },
+  "tr": {
+    "name": "Turkish",
+    "name_local": "Türkçe",
+    "iso_639_1": "tr",
+    "iso_639_2": "tur",
+    "iso_639_3": "tur",
+    "locales": [
+      "tr-TR",
+      "tr-CY"
+    ],
+    "tags": [
+      "turkish",
+      "türkçe",
+      "tur",
+      "tr"
+    ],
+    "main_country_code": "TR",
+    "main_locale": "tr-TR"
+  },
+  "uk": {
+    "name": "Ukrainian",
+    "name_local": "Українська",
+    "iso_639_1": "uk",
+    "iso_639_2": "ukr",
+    "iso_639_3": "ukr",
+    "locales": [
+      "uk-UA"
+    ],
+    "tags": [
+      "українська",
+      "ukrainian",
+      "ukr",
+      "uk"
+    ],
+    "main_country_code": "UA",
+    "main_locale": "uk-UA"
+  },
+  "ur": {
+    "name": "Urdu",
+    "name_local": "اردو",
+    "iso_639_1": "ur",
+    "iso_639_2": "urd",
+    "iso_639_3": "urd",
+    "locales": [
+      "ur-PK"
+    ],
+    "tags": [
+      "اردو",
+      "urdu",
+      "urd",
+      "ur"
+    ],
+    "main_country_code": "PK",
+    "main_locale": "ur-PK"
+  },
+  "uz": {
+    "name": "Uzbek",
+    "name_local": "Oʻzbek",
+    "iso_639_1": "uz",
+    "iso_639_2": "uzb",
+    "iso_639_3": "uzb",
+    "locales": [
+      "uz-AF",
+      "uz-UZ"
+    ],
+    "tags": [
+      "oʻzbek",
+      "uzbek",
+      "uzb",
+      "uz"
+    ],
+    "main_country_code": "UZ",
+    "main_locale": "uz-UZ"
+  },
+  "ve": {
+    "name": "Venda",
+    "name_local": "Tshivenḓa",
+    "iso_639_1": "ve",
+    "iso_639_2": "ven",
+    "iso_639_3": "ven",
+    "locales": [
+      "ve-ZA"
+    ],
+    "tags": [
+      "tshivenḓa",
+      "venda",
+      "ven",
+      "ve"
+    ],
+    "main_country_code": "ZA",
+    "main_locale": "ve-ZA"
+  },
+  "vi": {
+    "name": "Vietnamese",
+    "name_local": "Tiếng việt",
+    "iso_639_1": "vi",
+    "iso_639_2": "vie",
+    "iso_639_3": "vie",
+    "locales": [
+      "vi-VN"
+    ],
+    "tags": [
+      "vietnamese",
+      "tiếng việt",
+      "vie",
+      "vi"
+    ],
+    "main_country_code": "VN",
+    "main_locale": "vi-VN"
+  },
+  "xh": {
+    "name": "Xhosa",
+    "name_local": "Isixhosa",
+    "iso_639_1": "xh",
+    "iso_639_2": "xho",
+    "iso_639_3": "xho",
+    "locales": [
+      "xh-ZA"
+    ],
+    "tags": [
+      "isixhosa",
+      "xhosa",
+      "xho",
+      "xh"
+    ],
+    "main_country_code": "ZA",
+    "main_locale": "xh-ZA"
+  },
+  "zh": {
+    "name": "Chinese",
+    "name_local": "中文 (zhōngwén)",
+    "iso_639_1": "zh",
+    "iso_639_2": "zho",
+    "iso_639_3": "zho",
+    "locales": [
+      "zh-CN",
+      "zh-HK",
+      "zh-MO",
+      "zh-SG",
+      "zh-TW"
+    ],
+    "tags": [
+      "中文 (zhōngwén)",
+      "chinese",
+      "zho",
+      "zh"
+    ],
+    "main_country_code": "CN",
+    "main_locale": "zh-CN"
+  },
+  "zu": {
+    "name": "Zulu",
+    "name_local": "Isizulu",
+    "iso_639_1": "zu",
+    "iso_639_2": "zul",
+    "iso_639_3": "zul",
+    "locales": [
+      "zu-ZA"
+    ],
+    "tags": [
+      "isizulu",
+      "zulu",
+      "zul",
+      "zu"
+    ],
+    "main_country_code": "ZA",
+    "main_locale": "zu-ZA"
+  }
+}
